@@ -1,0 +1,251 @@
+   70  git cd 
+   71  cd git
+   72   git add js img css
+   80  git add js img css
+   81  git commit -m "added"
+   82  git push origin master
+   83  git push origin master
+   84  git pull
+   85  git commit -m"added css img js"
+   86  git push origin master
+   87  cd git
+   90  cd git
+   91  git clone https://github.com/hyu724/exercise.git
+  108  git add js img css
+  109  git commit -m"added js img css"
+  110  git push origin master
+  111  cd git
+  113  cp index1.html index2.html index3.html ~/desktop/git/exercise/
+  116  mv style.css ~/desktop/git/exercise/css/
+  117  mv style.css ~/desktop/git/exercise/css/
+  118  mv js.js ~/desktop/git/exercise/js/
+  119  mv style.css ~/desktop/git/exercise/css/
+  121  git branch v0,01
+  122  git checkout v0.01
+  123  cd git 
+  125  cd git
+  126  mv style.css ~/desktop/git/exercise/css/
+  128  mv style.css ~/desktop/git/exercise/css/
+  129  mv js.js ~/desktop/git/exercise/js/
+  130  mv js.js ~/desktop/git/exercise/js/
+  131  cd git
+  132  git status
+  134  git status
+  135  git add css img js index1.html index2.html index3.html
+  136  git commit -m"added all"
+  137  git pull
+  138  git clone https://github.com/hyu724/exercise.git
+  139  git pull
+  140  git push origin master
+  142  git add titile
+  143  git add index1.html
+  144  git commit -m"added title"
+  145  git pull
+  146  git push origin master
+  147  git branch V0.01
+  148  git checkout V0.01
+  150  git rm index2.html index3.html
+  151  git commit -m"removed index2.html index3.html"
+  152  git push origin V0.01
+  153  git checkout master
+  158  cp *.png ~/desktop/git/exercise/img/
+  159  cd ~/desktop/git/exercise/
+  160  git add img
+  161  git commit -m"added img"
+  162  git pull
+  163  git push origin master
+  164  git checkout V0.01
+  165  git merge master
+  166  git commit -m"merger master"
+  167  find ~/destop/git/ -name "*.png"
+  168  find ~/desktop/git/ -name "*.png"
+  169  find ~/desktop/git/ -name "*.html"
+  172  cp -r git backup
+  177  mkdir git
+  181  cp /users/han/index.html git/index.html
+  182  cp ~han/index.html ~/desktop/git
+  183  cp ~/desktop/git/index.html ~/desktop/git/index1.html
+  184  cp ~/desktop/git/index.html ~/desktop/git/index2.html
+  185  cp ~/desktop/git/index.html ~/desktop/git/index3.html
+  189  cp ~/style.css ~/desktop/git
+  190  cp ~desktop/style.css ~/desktop/git/
+  191  cp style.css js.js ~/desktop/git
+  193  cd git
+  194  git clone https://github.com/hyu724/exercise.git
+  205  git add js img css
+  206  git exercise
+  208  cd git
+  220  git add js img css
+  221  git commit -m"added js img css"
+  222  git push origin master
+  224  cd git
+  225  cp ~/desktop/git/index1.html ~/desktop/git/exercise/
+  226  cp ~/desktop/git/index2.html ~/desktop/git/exercise/
+  227  cp ~/desktop/git/index3.html ~/desktop/git/exercise/
+  229  mv ~/desktop/git/style.css ~/desktop/git/exercise/css/
+  230  mv ~/desktop/git/js.js ~/desktop/git/exercise/js/
+  231  git status
+  233  git status
+  235  git add title
+  236  git add index1.html
+  237  git commit -m"added"
+  238  git pull
+  239  git push origin master
+  240  git branch v0.01
+  241  git checkout v0.01
+  243  git add index2.html index3.html
+  245  git push origin v0.01
+  246  git checkout master
+  267  mkdir git
+  268  cd git
+  269  git clone https://github.com/hyu724/exam.git
+  271  cp /exam/ ~/desktop/git/exam
+  272  cp /users/han/exam/ ~/desktop/git/exam/
+  273  cp ~han/exam ~/desktop/git/exam
+  274  cp ~/han/exam ~/desktop/git/exam/
+  275  cp -r exam git/exam
+  276  cp -r exam git
+  278  git exam
+  280  cd git
+  281  git exam
+  282  git clone https://github.com/hyu724/exam.git
+  283  git exam
+  286  cd git
+  287  git clone https://github.com/hyu724/exam.git
+  291  git branch v2.0
+  292  cp -r exam git
+  293  cp ~/users/han/exam/ ~/desktop/git/exam/
+  294  cp ~/users/han/exam ~git/exam/
+  295  cp ~/users/han/exam ~desktop/git/exam
+  296  cp -r *exam ~/desktop/git/exam
+  297  cp ~han/exam ~/desktop/git/exam/
+  298  cp ~exam ~/desktop/git/exam
+  304  cp -r *exam ~/desktop/git/exam
+  305  cd git
+  307  cd git
+  315  cd git
+  317  cd git
+  318  git clone https://github.com/hyu724/exam.git
+  319  git exam
+  323  git push origin master
+  324  git rm js.js style.css
+  325  cd git
+  328  git rm js.js
+  329  git rm style.css
+  330  cd git
+  332  cd git
+  335  cd git
+  336  git clone https://github.com/hyu724/exam.git
+  338  git rm js.js
+  343  git add
+  344  git add exam
+  345  git push origin master
+  346  git add css js index.html
+  347  git commit -m"added all"
+  348  git push origin master
+  356  cd git
+  357  git exam
+  360  git branch v2.0
+  361  git checkout v2.0
+  362  git push origin master
+  363  git checkout master
+  365  git add index.html
+  366  git commit -m"added index.html"
+  367  git push origin master
+  368  git branch v3.0
+  369  git checkout v3.0
+  370  git merge master
+  371  git checkout master
+  375  git add head.txt tail.txt history.txt
+  376  git commit -m"all txt"
+  377  git push origin master
+  414  mkdir git
+  415  cd git
+  416  git clone https://github.com/hyu724/exam.git
+  419  cp -r ~/Desktop/git/
+  420  cp -r .  ~/Desktop/git/
+  421  cd git
+  423  cd git
+  424  git clone https://github.com/hyu724/exam.git
+  427  mkdir git
+  428  git clone https://github.com/hyu724/exam.git
+  431  cp -r css js ~/desktop/git/exam/
+  432  cp css index.html js.js js style.css ~/desktop/git/exam/
+  434  mkir git
+  435  mkdir git
+  436  cd git
+  437  git clone https://github.com/hyu724/exam.git
+  441  cp -r . ~/Desktop/git/exam/
+  442  cp -r  ~/Desktop/git/exam/
+  448  cp -r css index.html js.js js style.css ~/Desktop/git/exam/
+  450  git add
+  451  git add .
+  452  cd git
+  456  cd git
+  458  git add .
+  459  git commit -m"added all"
+  460  git push origin master
+  464  cd ~/desktop/git/exam/
+  465  git branch v2.0
+  466  git checkout v2.0
+  467  git push origin v2.0
+  468  git checkout master
+  470  git add index.html
+  471  git commit -m"added index.html"
+  472  git push origin master
+  473  git checkout v2.0
+  474  git merge master
+  475  git push origin master
+  476  git branch 3.0
+  477  git checkout 3.0
+  478  git push origin v3.0
+  479  git branch v3.0
+  480  git checkout v3.0
+  481  git push origin v3.0
+  482  git checkout master
+  485  git add index.html
+  486  git commit -m"added index.html"
+  487  git push origin master
+  488  git checkout v3.0
+  489  git merge master
+  490  git checkout master
+  493  history | grep git >history.txt
+  494  git add head.txt tail.txt history.txt
+  495  git commit -m"added all"
+  496  git push origin master
+  497  git rm head.txt
+  498  git rm js.js style.css tail.txt history.txt
+  499  git commit -m"added"
+  500  git push origin master
+  527  mkdir git
+  528  cd git
+  529  git club https://github.com/hyu724/exam.git
+  530  git clone https://github.com/hyu724/exam.git
+  533  cp -r css index.html js.js js style.css ~/desktop/git/exam/
+  534  cd ~/desktop/git/exam/
+  536  git add .
+  537  git commit -m"added all"
+  538  git push origin master
+  542  cd ~/desktop/git/exam/
+  543  git branch v2.0
+  544  git checkout v2.0
+  545  git push origin v2.0
+  546  git checkout master
+  548  git add index.html
+  549  git commit -m"added index.html"
+  550  git push origin master
+  551  git checkout v2.0
+  552  git merge master
+  553  git push origin origin v2.0
+  554  git push origin v2.0
+  555  git branch v3.0
+  556  git checkout v3.0
+  557  git push origin v3.0
+  558  git checkout master
+  560  git add index.html
+  561  git commit -m"added index.html"
+  562  git push origin master
+  563  git checkout v3.0
+  564  git merge master
+  565  git checkout master
+  568  history | grep git >history.txt
